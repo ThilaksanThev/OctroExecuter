@@ -1,0 +1,11 @@
+"0.0.1""hello world""is this magic"
+lib "stdlib" "1.0" 2
+copyfront 1
+svs 0
+copyfront 1
+svs 1
+setadd
+copyfront 1
+svs 0
+setadd
+execfront 8 1
